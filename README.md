@@ -33,9 +33,11 @@ homeassistantfrigate_extra_volumes:
 
 Getting started
 
-1. Flash the "ratgdo v2.51, Security + 1.0, 2.0 & Dry Contact" firmware using [this webapp](https://paulwieland.github.io/ratgdo/flash.html)
-   * [Download MQTT firmware](https://github.com/ratgdo/mqtt-ratgdo)
-   * The webapp will prompt you to configure WiFi
+1. Choose between:
+   * (Option A) Flash the MQTT firmware for "ratgdo v2.51, Security + 1.0, 2.0 & Dry Contact" using [this web installer](https://paulwieland.github.io/ratgdo/flash.html)
+     * [Download MQTT firmware](https://github.com/ratgdo/mqtt-ratgdo)
+     * The webapp will prompt you to configure WiFi
+   * (Option B) Flash the ESPHome firmware using [this web installer](https://ratgdo.github.io/esphome-ratgdo/)
 1. Navigate to the admin web interface
 1. Set a MQTT IP and port:1883. You must use an IP not a hostname.
 1. Leave the "Home Assistant Discovery Prefix" at its default "homeassistant"

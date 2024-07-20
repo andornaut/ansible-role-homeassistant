@@ -56,6 +56,10 @@ Getting started
    show_state: true
    ```
 
+### Home Assistant Connect ZBT-1
+
+* [Official documentation](https://connectzbt1.home-assistant.io/)
+
 ### [SONOFF Zigbee 3.0 USB Dongle Plus](https://itead.cc/product/sonoff-zigbee-3-0-usb-dongle-plus/) (CC2652P)
 
 Upgrading SONOFF Zigbee 3.0 USB Dongle Plus (ZBDongle-P) firmware:
